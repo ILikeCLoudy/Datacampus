@@ -26,8 +26,8 @@
 
 ### DEVELOPMENT TEAMS
 - **Design / Frontend**: SuHyun Park ([@hyumme](https://github.com/hyumme)), Ki Tae Mun ([@vambroag](https://github.com/vambroag)), Jong Hyun Park ([@JayParc](https://github.com/JayParc))
-- **AI / Backend**: 이정엽 ([@ILikeCloudy](https://github.com/ILikeCloudy)), Yeojin Chung ([@Jini-lab](https://github.com/Jini-lab)), Kyungtae Choi ([@Goddohi](https://github.com/Goddohi))
-- **Project Management**: Kyungtae Choi ([@Goddohi](https://github.com/Goddohi)), Ki Tae Mun ([@vambroag](https://github.com/vambroag)), SuHyun Park ([@hyumme](https://github.com/hyumme)), 이정엽 ([@ILikeCloudy](https://github.com/ILikeCloudy))
+- **AI / Backend**: JeongYeop Lee ([@ILikeCloudy](https://github.com/ILikeCloudy)), Yeojin Chung ([@Jini-lab](https://github.com/Jini-lab)), Kyungtae Choi ([@Goddohi](https://github.com/Goddohi))
+- **Project Management**: Kyungtae Choi ([@Goddohi](https://github.com/Goddohi)), Ki Tae Mun ([@vambroag](https://github.com/vambroag)), SuHyun Park ([@hyumme](https://github.com/hyumme)), JeongYeop Lee ([@ILikeCloudy](https://github.com/ILikeCloudy))
 
 ---
 
